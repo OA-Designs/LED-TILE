@@ -1,0 +1,17 @@
+# KiCad
+*.bak
+*-backups/
+_autosave-*
+*.kicad_pcb-bak
+*.kicad_sch-bak
+fp-info-cache
+*.lck
+*.000
+
+# FreeCAD
+*.FCBak
+*.FCStd1
+
+# OS junk
+.DS_Store
+Thumbs.db
