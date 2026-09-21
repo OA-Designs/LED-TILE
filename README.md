@@ -26,8 +26,8 @@ Schematic and PCB layout are complete (4-layer board, DRC clean). Not yet fabric
 
 The full schematic and PCB layout can be explored interactively (pan, zoom, toggle layers, click any trace to see its net) via KiCanvas:
 PLACEHOLDERS
-- [Schematic](https://kicanvas.org/?repo=https%3A%2F%2Fgithub.com%2FOA-Designs%2FLED-TILE%2Fblob%2Fa3d1c1e77a491de677230b5438bf334c2ac30740%2Felectronics%2Flighting-tile-pcb%2FLighting%2520Tile%2520Circuit%2520V3.kicad_sch)
-- [PCB Layout](https://kicanvas.org/?repo=https%3A%2F%2Fgithub.com%2FOA-Designs%2FLED-TILE%2Fblob%2Fa3d1c1e77a491de677230b5438bf334c2ac30740%2Felectronics%2Flighting-tile-pcb%2FLighting%2520Tile%2520Circuit%2520V3.kicad_pcb)
+- [Schematic](https://kicanvas.org/?repo=https%3A%2F%2Fgithub.com%2FOA-Designs%2FLED-TILE%2Fblob%2Fmain%2Felectronics%2Flighting-tile-pcb%2FLighting%2520Tile%2520Circuit%2520V3.kicad_sch)
+- [PCB Layout](https://kicanvas.org/?repo=https%3A%2F%2Fgithub.com%2FOA-Designs%2FLED-TILE%2Fblob%2Fmain%2Felectronics%2Flighting-tile-pcb%2FLighting%2520Tile%2520Circuit%2520V3.kicad_pcb)
 
 ## Design Process
 
